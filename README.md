@@ -6,19 +6,4 @@ Make Some New Files Notepad Put This Script :
 color 02
 :start
 echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
-goto start
-title KUyang Anjayecho %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
-goto start
-title KUyang Anjayecho %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
-goto start
-title KUyang Anjayecho %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
-goto start
-title KUyang Anjayecho %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
-goto start
-title KUyang Anjayecho %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
-goto start
-title KUyang Anjayecho %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
-goto start
-title KUyang Anjayecho %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
-goto start
-title KUyang Anjay
+title Kuyang Terbang V1.0
